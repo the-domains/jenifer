@@ -1,0 +1,28 @@
+name: jenifer
+favicon: null
+layout_spectrum: 0.2928392372559756
+typography_spectrum: 0.1828698473982513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5067106240894645
+  lightness: 0.9546651577111334
+  saturation: 0.47677823109552264
+  rhythmicContrast: 0.3962846214417368
+purpose: []
